@@ -15,7 +15,7 @@ In the field of computational photography, multi-focus image fusion (MFF) is a c
 
 <h2> Output Fused Image </h2>
 
-![image](https://user-images.githubusercontent.com/83510424/153752706-76f2ace7-c497-4d06-b45e-a3887ce45b3d.png
+![image](https://user-images.githubusercontent.com/83510424/153752706-76f2ace7-c497-4d06-b45e-a3887ce45b3d.png)
 
 <h2> References </h2>
 
